@@ -23,5 +23,5 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src"]
+  "include": ["src", "../backend/worker-configuration.d.ts"] // D1Databaseの型定義を取り込むために必要
 }
