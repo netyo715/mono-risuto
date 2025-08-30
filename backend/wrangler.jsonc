@@ -25,7 +25,8 @@
     {
       "binding": "DB",
       "database_name": "mono-risuto-db",
-      "database_id": "b3a57e5b-36e7-4cdc-ae59-9e1613b9c351"
+      "database_id": "b3a57e5b-36e7-4cdc-ae59-9e1613b9c351",
+      "migrations_dir": "drizzle"
     }
   ]
   // "ai": {
